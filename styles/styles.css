@@ -12,3 +12,19 @@ img {
   display: inline;
   margin: 0;
 }
+
+.illustrator {
+  background-color: black;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.thermometerContainer {
+  width: 120%;
+}
+
+.thermometer {
+  width: 100%;
+}
