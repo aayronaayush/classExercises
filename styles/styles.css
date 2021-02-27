@@ -20,11 +20,3 @@ img {
   justify-content: center;
   align-items: center;
 }
-
-.thermometerContainer {
-  width: 120%;
-}
-
-.thermometer {
-  width: 100%;
-}
